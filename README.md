@@ -9,7 +9,7 @@ Neither of these methods is all that conducive to creative workflows.
 
 Kenton D-Sync: photo courtesy of [Kenton](https://kentonuk.com/)
 
-As the Kenton D-Sync has only 3 settings, each with only 2 states...
+The Kenton D-Sync has only 3 settings, each with only 2 states...
   - DINsync clock speed (24 or 48 pulses per quarter note)
   - Continue or Start on a DIN sinal start and  (<-- this feature is especially useful for when there's a tacit in a piece)
   - a "soft Thru" option that can be switched on or off
