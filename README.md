@@ -5,6 +5,8 @@ These parameters are, by default, changed by connecting a computer or phone to a
 transmitting raw sysex messages from a laptop, via either the [Kenton web app](https://kentonuk.com/apps/dsync-config) or a terminal connection.
 Neither of these methods is all that conducive to creative workflows.
 
+<img width="530" height="286" alt="D-Sync" src="https://github.com/user-attachments/assets/2ff9496b-d236-4cbb-b01c-f4c8d14205c1" />
+
 As the Kenton D-Sync has only 3 settings, each with only 2 states...
   - DINsync clock speed (24 or 48 pulses per quarter note)
   - Continue or Start on a DIN sinal start and  (<-- this feature is especially useful for when there's a tacit in a piece)
