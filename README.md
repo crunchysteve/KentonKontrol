@@ -2,7 +2,7 @@
 
 The Kenton D-Sync is a bi-directional MIDI to DIN Sync Converter, with 3 user settable parameters. 
 These parameters are, by default, changed by connecting a computer or phone to a MIDI interface and 
-transmitting raw sysex messages from the laptop (via either the [Kenton web app](https://kentonuk.com/apps/dsync-config) or a terminal connection.
+transmitting raw sysex messages from a laptop, via either the [Kenton web app](https://kentonuk.com/apps/dsync-config) or a terminal connection.
 Neither of these methods is all that conducive to creative workflows.
 
 As the Kenton D-Sync has only 3 settings, each with only 2 states...
