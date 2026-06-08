@@ -14,3 +14,5 @@ synth studio and connect it to your computer.
 
 This is where KentonKontrol comes in, providing a 6 button hardware interface to toggle these
 settings via a MIDI connection.
+
+<img width="997" height="538" alt="KentonKontrol" src="https://github.com/user-attachments/assets/7a41825d-5d38-43aa-9407-838eb2d6cf9b" />
